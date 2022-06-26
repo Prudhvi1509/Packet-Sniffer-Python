@@ -3,6 +3,7 @@
 ## Overview
 
 Packet Sniffer created in Python 3. Allows you to monitor traffic running through local network. Allows the user to be able to view Source of the packets, Target host and the type of protocol used e.g. UDP/TCP.
+Packet Sniffing or Network Traffic Analysis is the process of tracking all incoming and outcoming traffic, network traffic, and availability using packet sniffers. Packet sniffers are used for comparing real-time networks and past data for detecting anomalies and potential vulnerabilities.
 
 ## Requirement
   - Python 3.x
